@@ -1,0 +1,7 @@
+language: python
+python:
+  - 3.8.5
+install:
+  - pip instal -r requirements-dev.txt
+script:
+  - flake8
