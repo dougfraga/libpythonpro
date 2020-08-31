@@ -3,4 +3,13 @@ mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 twine==3.2.0
+
+# Pytest deps
+py==1.8.2
+more-itertools==4.0.0
+attrs==17.4.0
+pluggy==0.12
+pytest==6.0.1
+toml==0.10.1
+six==1.15.0
 -r requirements.txt
