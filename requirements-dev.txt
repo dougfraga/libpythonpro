@@ -12,4 +12,10 @@ pluggy==0.12
 pytest==6.0.1
 toml==0.10.1
 six==1.15.0
+
+
+# Coverage
+coverage==5.2.1
+pytest-cov==2.10.1
+
 -r requirements.txt
