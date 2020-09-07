@@ -11,7 +11,7 @@ class SenderMock(Sender):
         super().__init__()
         self.num_of_sent_emails = 0
         self.sent_params = None
-        
+
     def send(self, shipper, recipient, title, body):
         self.sent_params = (shipper, recipient, title, body)
         self.num_of_sent_emails += 1
