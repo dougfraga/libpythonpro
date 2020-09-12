@@ -11,9 +11,8 @@ Supported on Python 3
 
 Installation:
 ```console
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements-dev.txt
+  - pip install pipenv
+  - pipenv sync --dev
 ```
 
 Checking code quality:
