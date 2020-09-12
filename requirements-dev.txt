@@ -9,7 +9,7 @@ py==1.8.2
 more-itertools==4.0.0
 attrs==17.4.0
 pluggy==0.13.1
-pytest==6.0.1
+pytest==6.0.2
 toml==0.10.1
 six==1.15.0
 pytest-mock==3.3.1
