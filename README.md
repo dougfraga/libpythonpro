@@ -1,5 +1,6 @@
 # libpythonpro
-Laboratory repo constructed during the PyTools module of PythonPro Course
+Development of a sample module to practice the publication procedure on PyPi.
+Part of a PyTools chapter from PythonPro Course
 
 Link for [PythonPro] training course (https://www.python.pro.br/) 
 [![Build Status](https://travis-ci.com/dougfraga/libpythonpro.svg?branch=master)](https://travis-ci.com/dougfraga/libpythonpro)
